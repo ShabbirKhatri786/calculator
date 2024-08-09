@@ -1,3 +1,9 @@
+@media screen {
+  body{
+    min-width: 455px;
+  }
+  
+}
 *{
   box-sizing: border-box;
     padding: 0;
